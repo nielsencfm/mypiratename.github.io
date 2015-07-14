@@ -6,7 +6,7 @@ This is an example website to demonstrate how to make a website
 *I want a website that will take my name, and give me a pirate name*
 
 ## Step 2: Draw a picture
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/nielsencfm/mypiratename.github.io/blob/master/design.png "My Pirate Name Design")
 
 ## Step 3: Make it!
 
