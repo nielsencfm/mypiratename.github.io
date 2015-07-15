@@ -1,7 +1,6 @@
 @font-face {
-  font-family: BlackwoodCastle;
-  src: local("BlackwoodCastle")
-       url(BLACC__.ttf);
+  font-family: "BlackwoodCastle";
+  src: local("BlackwoodCastle") url(BLACC__.ttf);
 }
 
 h1 {
