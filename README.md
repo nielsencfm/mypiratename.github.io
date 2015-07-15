@@ -11,4 +11,4 @@ This is an example website to demonstrate how to make a website
 ## Step 3: Make it!
 
 ## Step 4: Share it with the world
-You can find this site hosted at [GitHub](http://mypiratename.github.com)
+You can find this site hosted [here](https://mypiratename.herokuapp.com/)
