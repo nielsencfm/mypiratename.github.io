@@ -3,7 +3,8 @@
 This is an example website to demonstrate how to make a website
 
 ## Step 1: Have an idea
-*I want a website that will give me a pirate name*
+### *"I want a website that will give me a pirate name"*
+
 ![alt text](http://weknowmemes.com/wp-content/uploads/2013/09/whats-your-pirate-name.jpg "My Pirate Name Algorithm")
 
 ## Step 2: Draw a picture
