@@ -3,7 +3,7 @@
 This is an example website to demonstrate how to make a website
 
 ## Step 1: Have an idea
-*I want a website that will take my name, and give me a pirate name*
+*I want a website that will give me a pirate name*
 
 ## Step 2: Draw a picture
 ![alt text](https://github.com/nielsencfm/mypiratename.github.io/blob/master/design.png "My Pirate Name Design")
@@ -12,3 +12,6 @@ This is an example website to demonstrate how to make a website
 
 ## Step 4: Share it with the world
 You can find this site hosted [here](https://mypiratename.herokuapp.com/)
+
+*Reference*
+http://weknowmemes.com/2013/09/whats-your-pirate-name/
